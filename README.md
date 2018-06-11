@@ -1,5 +1,5 @@
 # markov_python
-This is the final capstone project in the CodeAcademy - Learn Python course. The program uses a Markov Chain with input from data scraped from websites to generate new text similar to the input. Specifally, my version of this project scrapes the storylines of Marvel movies from IMDB and uses this text to generate a potential new plotline. 
+This is the final capstone project in the CodeAcademy - Learn Python course. The program uses a Markov Chain with input from data scraped from websites to generate new text similar to the input. Specifically, my version of this project scrapes the storylines of Marvel movies from IMDB and uses this text to generate a potential new plotline. 
 
 Have fun! 
 
