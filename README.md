@@ -1,4 +1,8 @@
 # markov_python
+This is the final capstone project in the CodeAcademy - Learn Python course. The program uses a Markov Chain with input from data scraped from websites to generate new text similar to the input. Specifally, my version of this project scrapes the storylines of Marvel movies from IMDB and uses this text to generate a potential new plotline. 
+
+Have fun! 
+
 Codecademy Markov Chain text generator module.
 This is an implementation of a [Markov Chain](https://en.wikipedia.org/wiki/Markov_chain) that generates random text based on content provided by the user. It is designed to be used as a local Python module for instructional purposes.
 
