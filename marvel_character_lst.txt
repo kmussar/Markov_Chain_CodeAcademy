@@ -1,0 +1,13 @@
+Tony Stark,Iron Man,Rhodey,Obadiah Stane,Pepper Potts,Christine Everhart,Bruce Banner,Betty Ross,Emil Blonsky,General 'Thunderbolt' Ross,Samuel Sterns,Tony Stark,Pepper Potts,Lt. Col. James 'Rhodey' Rhodes,Natalie Rushman,Natasha Romanoff,Justin Hammer,Thor,Jane Foster,Loki,Odin,Erik Selvig,Captain America,Steve Rogers,Peggy Carter,James Buchanan 'Bucky' Barnes,Colonel Chester Phillips,Johann Schmidt,Red Skull,Tony Stark,Iron Man,Steve Rogers,Captain America,Bruce Banner,The Hulk,Thor,Natasha Romanoff,Black Widow,Tony Stark,Pepper Potts,Colonel James Rhodes,Aldrich Killian,Maya Hansen,Thor,Jane Foster,Loki,Odin,Malekith,Steve Rogers,Captain America,Nick Fury,Natasha Romanoff,Black Widow,Alexander Pierce,Bucky Barnes,Winter Soldier,Peter Quill,Gamora,Drax,Groot 
+  
+  
+  (voice),Rocket 
+  
+  
+  (voice),Tony Stark,Iron Man,Thor,Bruce Banner,Hulk,Steve Rogers,Captain America,Natasha Romanoff,Black Widow,Scott Lang,Ant-Man,Dr. Hank Pym,Hope van Dyne,Darren Cross,Yellowjacket,Paxton,Steve Rogers,Captain America,Tony Stark,Iron Man,Natasha Romanoff,Black Widow,Bucky Barnes,Winter Soldier,Sam Wilson,Falcon,Dr. Stephen Strange,Mordo,Christine Palmer,Wong,Kaecilius,Peter Quill,Star-Lord,Gamora,Drax,Baby Groot 
+  
+  
+  (voice),Rocket 
+  
+  
+  (voice),Peter Parker,Spider-Man,Adrian Toomes,Vulture,Tony Stark,Iron Man,May Parker,Happy Hogan,Thor,Loki,Hela,Heimdall,Grandmaster,T'Challa,Black Panther,Erik Killmonger,Nakia,Okoye,Everett K. Ross,Tony Stark,Iron Man,Thor,Bruce Banner,Hulk,Steve Rogers,Captain America,Natasha Romanoff,Black Widow
