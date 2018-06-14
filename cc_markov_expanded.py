@@ -82,10 +82,6 @@ class MarkovChain:
           def key_starts_with(pair):
               return(pair[0] == chain_head[0])
           filtered_keys = list(filter(key_starts_with, keys))
-          print("filtered keys")
-          print(filtered_keys)
-          print(keys)
-          print(chain_head[0])
           chain_head = random.choice(filtered_keys)
       context.extend(chain_head)   
           
