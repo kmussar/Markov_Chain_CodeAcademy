@@ -1,21 +1,22 @@
 # markov_python
-This is the final capstone project in the CodeAcademy - Learn Python course. The program uses a Markov Chain with input from data scraped from websites to generate new text similar to the input. Specifically, my version of this project scrapes the storylines of Marvel movies from IMDB and uses this text to generate a potential new plotline. 
+The program uses a Markov Chain with input from data scraped from websites to generate new text similar to the input. Specifically, my version of this project scrapes the storylines of Marvel movies from IMDB and uses this text to generate a potential new plotline. 
 
 Have fun! 
 
+Some of my favorite generated stories include: 
+
+jane foster (portman) teaches thor much needed lessons and his new found strength comes into play as a new villain emerges marvel's "doctor strange" follows...
+
+steve rogers is frustrated at being rejected yet again for military service everything changes when dr erskine is then immediately assassinated by an agent of...
+
+jane foster (portman) teaches thor much needed lessons and his weak body is suddenly enhanced into the maximum human potential when dr erskine recruits him...
+
+pepper potts and james "rhodey" rhodes at his side must forge new alliances and confront powerful enemies the warrior thor (hemsworth) is cast out of...
+
+hela after the events after the gamma bomb 'the incredible hulk' tells the story of the talented neurosurgeon doctor stephen strange who after a tragic...
+
 Codecademy Markov Chain text generator module.
 This is an implementation of a [Markov Chain](https://en.wikipedia.org/wiki/Markov_chain) that generates random text based on content provided by the user. It is designed to be used as a local Python module for instructional purposes.
-
-## How to add this to your project
-1. Clone this repository into your Python project folder. Alternatively, you can download the zip archive and extract it into a directory in your project folder called `markov_python`.
-2. You will need to import this file based on it's relative path. If your main runnable Python script is in the same directory as the `markov_python` directory, you can import this by including the following at the top of the runnable script: `from markov_python.cc_markov import MarkovChain`
-
-
-## How to use the Markov Chain text generator
-1. After importing this module into your main project script, create an instance of MarkovChain and assign it to a variable. For example `mc = MarkovChain()`
-2. Use one of the methods to read a local text file or a string. You can call this method multiple times to add additional data.
-3. Call the `generate_text()` function on the instance of MarkovChain you created to generate text from the Markov Chain. You can call this method multiple times to generate additional data. This function will output a list of words. If your project requires a different format, you should convert the output accordingly.
-
 
 ## License
 
